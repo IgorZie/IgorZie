@@ -1,5 +1,5 @@
 # Igor Zielosko
-### Fullstack Developer
+### Desenvolvedor Fullstack
 
 [![Linkedin Badge](https://img.shields.io/badge/-Igor%20Zielosko-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-zielosko-4775b821a/)](https://www.linkedin.com/in/igor-zielosko-4775b821a/)
 
