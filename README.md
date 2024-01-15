@@ -9,7 +9,7 @@ Sou do Brasil 🇧🇷. Uma pessoa apaixonada por tecnologia que aceita e encara
 - 📍 Joinville - SC
 - 👨‍💻 Desenvolvedor Backend
   
-#### Languages 
+#### Linguagens 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -18,7 +18,7 @@ Sou do Brasil 🇧🇷. Uma pessoa apaixonada por tecnologia que aceita e encara
   <img src="https://img.shields.io/badge/PHP-777bb3?style=for-the-badge&logo=php&logoColor=white">
 </div>
   
-#### Databases  
+#### Banco de Dados  
   
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -26,7 +26,7 @@ Sou do Brasil 🇧🇷. Uma pessoa apaixonada por tecnologia que aceita e encara
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-#### Tools, Libraries, Frameworks and OS
+#### Ferramentas, Bibliotecas, Frameworks e OS
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
